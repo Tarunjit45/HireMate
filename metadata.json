@@ -1,0 +1,8 @@
+{
+  "name": "HireMate: AI Job Application Assistant",
+  "description": "An AI-powered tool for resume optimization, generating cover letters, ATS scoring, and interview prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
